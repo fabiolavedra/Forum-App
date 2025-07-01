@@ -1,0 +1,16 @@
+.social-button {
+  width: 100%;
+  padding: 12px 24px;
+  border: 2px solid rgba(255, 255, 255, 0.3);
+  color: white;
+  font-weight: 500;
+  border-radius: 6px;
+  background: transparent;
+  cursor: pointer;
+  transition: all 0.2s;
+  backdrop-filter: blur(4px);
+}
+
+.social-button:hover {
+  background: rgba(255, 255, 255, 0.1);
+}
